@@ -1,0 +1,38 @@
+# Czech Airband Frequencies - Major Airports & En-Route
+# author: TheOnlySyntax
+
+# LKPR - Václav Havel Airport Prague
+f=118100000,m=AM,bw=DSB 6k,d=Prague (Ruzyne) Tower
+f=119700000,m=AM,bw=DSB 6k,d=Prague (Ruzyne) Approach
+f=121900000,m=AM,bw=DSB 6k,d=Prague (Ruzyne) Ground
+f=127150000,m=AM,bw=DSB 6k,d=Prague Radar
+f=134250000,m=AM,bw=DSB 6k,d=Prague Information
+
+# LKTB - Brno-Tuřany Airport
+f=118200000,m=AM,bw=DSB 6k,d=Brno Tower[citation:4]
+f=119600000,m=AM,bw=DSB 6k,d=Brno Tower[citation:4]
+f=127350000,m=AM,bw=DSB 6k,d=Brno Radar[citation:4]
+
+# LKMT - Ostrava-Mošnov Airport
+f=118400000,m=AM,bw=DSB 6k,d=Ostrava Tower[citation:4]
+f=120800000,m=AM,bw=DSB 6k,d=Ostrava Tower[citation:4]
+f=119375000,m=AM,bw=DSB 6k,d=Ostrava Radar[citation:4]
+f=124050000,m=AM,bw=DSB 6k,d=Ostrava Radar[citation:4]
+
+# LKKV - Karlovy Vary Airport
+f=121900000,m=AM,bw=DSB 6k,d=Karlovy Vary Tower
+f=119050000,m=AM,bw=DSB 6k,d=Karlovy Vary Approach
+
+# LKPO - Pardubice Airport
+f=123450000,m=AM,bw=DSB 6k,d=Pardubice Tower
+f=122300000,m=AM,bw=DSB 6k,d=Pardubice Information
+
+# Navigation Aids (VOR/DME) - Czech Republic
+f=108600000,m=AM,bw=DSB 6k,d=Neratovice VOR/DME (NER)[citation:4]
+f=112600000,m=AM,bw=DSB 6k,d=Praha VOR/DME (OKL)[citation:4]
+f=113150000,m=AM,bw=DSB 6k,d=Desna VOR/DME (OKF)[citation:4]
+f=113900000,m=AM,bw=DSB 6k,d=Brno VOR/DME (BNO)[citation:4]
+f=114300000,m=AM,bw=DSB 6k,d=Vlasim VOR/DME (VLM)[citation:4]
+f=115700000,m=AM,bw=DSB 6k,d=Cheb VOR/DME (OKG)[citation:4]
+f=116300000,m=AM,bw=DSB 6k,d=Vozice VOR/DME (VOZ)[citation:4]
+f=117450000,m=AM,bw=DSB 6k,d=Ostrava VOR/DME (OTA)[citation:4]

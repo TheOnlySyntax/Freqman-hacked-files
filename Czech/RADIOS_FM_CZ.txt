@@ -1,0 +1,31 @@
+# CZ FM Stations - Frequency Ranges
+# author:TheOnlySyntax
+
+# Commercial stations - nationwide networks
+a=98000000,b=106300000,m=WFM,bw=200k,d=Radio Kiss
+a=88200000,b=105500000,m=WFM,bw=200k,d=Evropa 2
+a=102500000,b=106200000,m=WFM,bw=200k,d=Frekvence 1
+a=94100000,b=106600000,m=WFM,bw=200k,d=Fajn Radio
+a=90300000,b=107600000,m=WFM,bw=200k,d=Expres FM
+a=87800000,b=106500000,m=WFM,bw=200k,d=Radio Blanik
+
+# Czech Radio (public broadcaster) - main stations
+a=89400000,b=107500000,m=WFM,bw=200k,d=Cesky rozhlas Radiozurnal
+a=88400000,b=107100000,m=WFM,bw=200k,d=Cesky rozhlas Dvojka
+a=90400000,b=107200000,m=WFM,bw=200k,d=Cesky rozhlas Vltava
+a=92600000,b=105800000,m=WFM,bw=200k,d=Cesky rozhlas Plus
+
+# Czech Radio - regional stations (aggregated)
+a=87500000,b=108000000,m=WFM,bw=200k,d=Cesky rozhlas Region
+
+# Other significant stations
+a=103700000,b=104100000,m=WFM,bw=200k,d=Rock Radio
+a=89100000,b=102900000,m=WFM,bw=200k,d=Dance Radio
+a=89200000,b=107900000,m=WFM,bw=200k,d=Hey Radio
+a=95300000,b=104700000,m=WFM,bw=200k,d=Country Radio
+
+# Single frequency entries
+f=96600000,m=WFM,bw=200k,d=Radio Impuls Praha
+f=93700000,m=WFM,bw=200k,d=Hitradio City Praha
+f=99300000,m=WFM,bw=200k,d=RFI Praha
+f=91700000,m=WFM,bw=200k,d=Radio Proglas Brno
