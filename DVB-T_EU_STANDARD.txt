@@ -1,0 +1,42 @@
+# DVB-T FREQUENCY DATABASE - PORTAPACK FREQMAN
+# author:TheOnlySyntax
+
+# ========== EUROPEAN STANDARD (470-694 MHz) ==========
+# Countries: Austria, Belgium, Croatia, Czech Republic, Denmark,
+# Estonia, Finland, Germany, Ireland, Latvia, Lithuania,
+# Luxembourg, Netherlands, Norway, Poland, Portugal,
+# Romania, Slovakia, Slovenia, Sweden, Switzerland
+a=470000000,b=550000000,d=EU Standard UHF IV Ch21-30
+a=550000000,b=630000000,d=EU Standard UHF IV/V Ch31-40
+a=630000000,b=694000000,d=EU Standard UHF V Ch41-48
+
+# ========== FRANCE ==========
+a=470000000,b=550000000,d=France UHF IV Ch21-30
+a=550000000,b=622000000,d=France UHF V Ch31-39
+
+# ========== ITALY ==========
+a=518000000,b=598000000,d=Italy UHF IV Ch26-35
+a=598000000,b=678000000,d=Italy UHF V Ch36-45
+a=678000000,b=758000000,d=Italy UHF V Ch46-55
+a=758000000,b=790000000,d=Italy UHF V Ch56-60
+
+# ========== SPAIN ==========
+a=470000000,b=550000000,d=Spain UHF IV Ch21-30
+a=550000000,b=630000000,d=Spain UHF V Ch31-40
+a=630000000,b=710000000,d=Spain UHF V Ch41-48
+a=710000000,b=790000000,d=Spain UHF V Ch49-60
+a=790000000,b=830000000,d=Spain UHF V Ch61-65
+a=830000000,b=862000000,d=Spain UHF V Ch66-69
+
+# ========== UNITED KINGDOM ==========
+a=470000000,b=550000000,d=UK UHF IV Ch21-30
+a=550000000,b=630000000,d=UK UHF IV/V Ch31-39
+a=630000000,b=650000000,d=UK UHF V Ch40-43
+a=650000000,b=670000000,d=UK UHF V Ch44-47
+
+# ========== UKRAINE ==========
+a=470000000,b=550000000,d=Ukraine UHF IV Ch21-30
+a=550000000,b=630000000,d=Ukraine UHF V Ch31-40
+a=630000000,b=710000000,d=Ukraine UHF V Ch41-48
+a=710000000,b=790000000,d=Ukraine UHF V Ch49-60
+a=790000000,b=862000000,d=Ukraine UHF V Ch61-69

@@ -1,0 +1,9 @@
+# DECT - Digital Enhanced Cordless Telecommunications
+# Wireless phones & baby monitors (EU Band)
+a=1880000000,b=1900000000,d=DECT Full Band EU
+# Split into smaller blocks:
+a=1880000000,b=1884000000,d=DECT Ch1-4
+a=1884000000,b=1888000000,d=DECT Ch5-8
+a=1888000000,b=1892000000,d=DECT Ch9-12
+a=1892000000,b=1896000000,d=DECT Ch13-16
+a=1896000000,b=1900000000,d=DECT Ch17-20

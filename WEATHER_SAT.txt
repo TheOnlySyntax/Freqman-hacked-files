@@ -1,0 +1,7 @@
+# WEATHER SATELLITES - 80MHz MAX BLOCKS
+# VHF Weather Sats
+a=137000000,b=138000000,d=NOAA APT 137-138MHz
+# L-band Satellites
+a=1690000000,b-1710000000,d=Weather Sats L-band 1.69-1.71GHz
+# S-band Satellites
+a=2200000000,b=2280000000,d=Weather Sats S-band 2.2-2.28GHz

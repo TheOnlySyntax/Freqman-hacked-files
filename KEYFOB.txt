@@ -1,0 +1,26 @@
+# KEYLESS ENTRY / CAR REMOTE FREQUENCIES
+# author: TheOnlySyntax
+
+f=433920000,d=Car Keyless EU 433.92MHz (VW/Audi/BMW/Mercedes)
+f=315000000,d=Car Keyless US 315MHz (Ford/GM/Chrysler/Japanese)
+f=418000000,d=Car Keyless JP 418MHz (Japanese domestic)
+f=303000000,d=Car Alarm 303MHz (Aftermarket systems)
+f=310000000,d=Car Alarm 310MHz (Aftermarket/Industrial)
+f=330000000,d=Car Alarm 330MHz (Industrial remotes)
+f=350000000,d=Garage Door 350MHz (US garage openers)
+f=370000000,d=Industrial Remote 370MHz (Cranes/Gates)
+f=390000000,d=Industrial Remote 390MHz (Industrial)
+f=430500000,d=Car Keyless CN 430.5MHz (China domestic)
+
+# ============================================
+# GROUPED 80MHz BLOCKS
+# ============================================
+
+# US Car Remotes (303-390MHz)
+a=303000000,b=390000000,d=US CAR REMOTES 303-390MHz
+
+# EU Car Remotes (433-434MHz)
+a=433900000,b=434000000,d=EU CAR REMOTES 433.9-434MHz
+
+# Asian Car Remotes (418-431MHz)
+a=418000000,b=431000000,d=ASIA CAR REMOTES 418-431MHz
