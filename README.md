@@ -78,7 +78,7 @@ d = description
 
 1. Power off the PortaPack.
 2. Remove the SD card and insert it into your computer.
-3. In the SD card root, create a folder named:
+3. In the SD card root, go into folder named:
 
    /FREQMAN/
 
